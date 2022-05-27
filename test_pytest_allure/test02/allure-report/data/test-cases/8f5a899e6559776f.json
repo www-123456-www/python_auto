@@ -1,0 +1,57 @@
+{
+  "uid" : "8f5a899e6559776f",
+  "name" : "test_with_named_link",
+  "fullName" : "test_pytest_allure.test_allure02#test_with_named_link",
+  "historyId" : "5d2ceb7a114af2c3906d68bb659b7876",
+  "time" : {
+    "start" : 1653276474689,
+    "stop" : 1653276474689,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure02"
+  }, {
+    "name" : "host",
+    "value" : "PC-20210510KUZF"
+  }, {
+    "name" : "thread",
+    "value" : "13068-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_allure.test_allure02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "点击进入mrjade博客园",
+    "url" : "https://www.cnblogs.com/mrjade/",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f5a899e6559776f.json",
+  "parameterValues" : [ ]
+}

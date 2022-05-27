@@ -1,0 +1,68 @@
+{
+  "uid" : "975104edaf83c930",
+  "name" : "动态标题: 1 + 2 = 5",
+  "fullName" : "test_pytest_allure.test_allure02#test_with_parameterized_title",
+  "historyId" : "837424ed95a8de67db4dae5c2fafde92",
+  "time" : {
+    "start" : 1653276474654,
+    "stop" : 1653276474655,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert (1 + 2) == 5",
+  "statusTrace" : "param1 = 1, param2 = 2, expected = 5\n\n    @allure.title(\"动态标题: {param1} + {param2} = {expected}\")\n    @pytest.mark.parametrize('param1,param2,expected', [(2, 2, 4),(1, 2, 5)])\n    def test_with_parameterized_title(param1, param2, expected):\n>       assert param1 + param2 == expected\nE       assert (1 + 2) == 5\n\ntest_pytest_allure\\test_allure02.py:186: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure02"
+  }, {
+    "name" : "host",
+    "value" : "PC-20210510KUZF"
+  }, {
+    "name" : "thread",
+    "value" : "13068-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_allure.test_allure02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected",
+    "value" : "5"
+  }, {
+    "name" : "param1",
+    "value" : "1"
+  }, {
+    "name" : "param2",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "975104edaf83c930.json",
+  "parameterValues" : [ "5", "1", "2" ]
+}

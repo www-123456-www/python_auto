@@ -1,0 +1,78 @@
+{
+  "uid" : "ec0d1436b292dbd5",
+  "name" : "test_31",
+  "fullName" : "test_pytest_allure.test_allure_step.TestEditPage#test_31",
+  "historyId" : "ee2f6d0d10d1b17db6219c4f0bd50e54",
+  "time" : {
+    "start" : 1653038685915,
+    "stop" : 1653038685915,
+    "duration" : 0
+  },
+  "description" : "成功用例31",
+  "descriptionHtml" : "<p>成功用例31</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "成功用例31",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "97ce80b89d83dc2",
+      "name" : "stdout",
+      "source" : "97ce80b89d83dc2.txt",
+      "type" : "text/plain",
+      "size" : 15
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure_step"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEditPage"
+  }, {
+    "name" : "host",
+    "value" : "PC-20210510KUZF"
+  }, {
+    "name" : "thread",
+    "value" : "19040-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_allure.test_allure_step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec0d1436b292dbd5.json",
+  "parameterValues" : [ ]
+}

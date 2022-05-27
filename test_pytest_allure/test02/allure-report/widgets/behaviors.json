@@ -1,0 +1,81 @@
+{
+  "total" : 28,
+  "items" : [ {
+    "uid" : "c59c3dd2f847075664a79d49ff0b8118",
+    "name" : "test_failure",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5952e2bf3af019153440fbc7355a29b9",
+    "name" : "test_broken",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "f2cacefc19f93b9fcbfe2a68d18ea134",
+    "name" : "epic-史诗-敏捷组件",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "bcfb8a52edc4f0408744bbee411b9e43",
+    "name" : "test_xfail_unexpected_pass",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "e7b09505a773f188c065a875fbfd30c5",
+    "name" : "test_skipif",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "23fe150e9d6f5137caac4911d6fca2bd",
+    "name" : "test_skip",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "365851de7c66544fd39bc3628fefe43b",
+    "name" : "test_xfail_expected_failure",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

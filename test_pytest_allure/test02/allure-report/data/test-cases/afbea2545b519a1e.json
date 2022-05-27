@@ -1,0 +1,105 @@
+{
+  "uid" : "afbea2545b519a1e",
+  "name" : "title_用例标题",
+  "fullName" : "test_pytest_allure.test_allure02#test_success",
+  "historyId" : "7acc82407733eaba8107bca3ed82c616",
+  "time" : {
+    "start" : 1653276474279,
+    "stop" : 1653276474280,
+    "duration" : 1
+  },
+  "description" : "用例描述",
+  "descriptionHtml" : "<p>用例描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "用例描述",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1653276474280,
+        "stop" : 1653276474280,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "story",
+    "value" : "sort_用户故事-对象"
+  }, {
+    "name" : "feature",
+    "value" : "test_success-模块"
+  }, {
+    "name" : "epic",
+    "value" : "epic-史诗-敏捷组件"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure02"
+  }, {
+    "name" : "host",
+    "value" : "PC-20210510KUZF"
+  }, {
+    "name" : "thread",
+    "value" : "13068-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_allure.test_allure02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "testcase-链接url",
+    "url" : "testcase-链接url",
+    "type" : "test_case"
+  }, {
+    "name" : "issue-缺陷url",
+    "url" : "issue-缺陷url",
+    "type" : "issue"
+  }, {
+    "name" : "link",
+    "url" : "link",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "trivial",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afbea2545b519a1e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,61 @@
+{
+  "uid" : "4627bac3ad70a296",
+  "name" : "test_skip__",
+  "fullName" : "test_pytest_allure.test_allure02#test_skip__",
+  "historyId" : "434819024e38d39338aa65c41de7be50",
+  "time" : {
+    "start" : 1653276474530,
+    "stop" : 1653276474530,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 如果操作系统是win则跳过执行",
+  "statusTrace" : "('D:\\\\wyy\\\\Pythonwork\\\\test_\\\\test\\\\test_pytest_allure\\\\test_allure02.py', 74, 'Skipped: 如果操作系统是win则跳过执行')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_skipif"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='如果操作系统是win则跳过执行')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure02"
+  }, {
+    "name" : "host",
+    "value" : "PC-20210510KUZF"
+  }, {
+    "name" : "thread",
+    "value" : "13068-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_allure.test_allure02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(reason='如果操作系统是win则跳过执行')" ]
+  },
+  "source" : "4627bac3ad70a296.json",
+  "parameterValues" : [ ]
+}

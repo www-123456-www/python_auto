@@ -1,0 +1,55 @@
+{
+  "uid" : "9367c4fc12e95e67",
+  "name" : "test_unicode_in_docstring_description",
+  "fullName" : "test_pytest_allure.test_allure02#test_unicode_in_docstring_description",
+  "historyId" : "0cd6c1e471714180b094b740da4e908b",
+  "time" : {
+    "start" : 1653276474631,
+    "stop" : 1653276474632,
+    "duration" : 1
+  },
+  "description" : "在函数下方描述也可",
+  "descriptionHtml" : "<p>在函数下方描述也可</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest_allure"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure02"
+  }, {
+    "name" : "host",
+    "value" : "PC-20210510KUZF"
+  }, {
+    "name" : "thread",
+    "value" : "13068-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_allure.test_allure02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9367c4fc12e95e67.json",
+  "parameterValues" : [ ]
+}
